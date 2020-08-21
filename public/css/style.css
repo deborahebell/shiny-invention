@@ -1,0 +1,11 @@
+nav ul li {
+  text-decoration: none;
+  display: inlne-block;
+  margin-right: .3em;
+  color: chartreuse;
+}
+
+h1 {
+  color: green ;
+  border: chartreuse;
+}
